@@ -35,9 +35,9 @@
 
 ## Скриншоты
 
-<img width="800" height="878" alt="Снимок экрана 2025-11-24 100531" src="https://github.com/user-attachments/assets/e1e9a31e-f391-45fe-b316-e6ef05d44769" />
-<img width="800" height="826" alt="Снимок экрана 2025-11-24 100606" src="https://github.com/user-attachments/assets/a90dd607-3728-41e4-81b8-4df626d81594" />
-<img width="800" height="906" alt="Снимок экрана 2025-11-24 100404" src="https://github.com/user-attachments/assets/1deef386-0652-4262-823e-fae2a8917b58" />
+<img width="400" height="400" alt="Снимок экрана 2025-11-24 100531" src="https://github.com/user-attachments/assets/e1e9a31e-f391-45fe-b316-e6ef05d44769" />
+<img width="400" height="400" alt="Снимок экрана 2025-11-24 100606" src="https://github.com/user-attachments/assets/a90dd607-3728-41e4-81b8-4df626d81594" />
+<img width="400" height="400" alt="Снимок экрана 2025-11-24 100404" src="https://github.com/user-attachments/assets/1deef386-0652-4262-823e-fae2a8917b58" />
 
 ---
 
