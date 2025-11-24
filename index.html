@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wheather</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="wrapper">
+        <div class="input-area">
+          <input
+            type="text"
+            placeholder="Введите название города"
+            class="enter-city"
+            name="city"
+          />
+          <button class="search"><img src="img/search.svg" alt="" /></button>
+        </div>
+        <div class="main-area">
+          <div class="info-area">
+            <div class="city-info">
+              <div class="city"></div>
+              <div class="to-favourite">
+                <img src="img/heart.png" alt="" />
+              </div>
+            </div>
+            <div class="weather">
+              <div class="weather-today">
+                <div class="temp-ic">
+                  <div class="temperature"></div>
+                  <div class="icon">                    
+                  </div>
+                </div>
+                <div class="description">
+                  <div class="feels-like"></div>
+                  <div class="wind"></div>
+                  <div class="humidity"></div>
+                </div>
+              </div>
+              <div class="weather-forecast">
+                <div class="forecast">
+                  <div class="forecast-info">
+                    <div class="forecast-time"></div>
+                    <div class="forecast-weather">
+                      <div class="forecast-temp"></div>
+                      <div class="forecast-feels-like"></div>
+                    </div>
+                  </div>
+                  <div class="forecast-icon">                    
+                  </div>
+                </div>
+                <div class="forecast">
+                  <div class="forecast-info">
+                    <div class="forecast-time"></div>
+                    <div class="forecast-weather">
+                      <div class="forecast-temp"></div>
+                      <div class="forecast-feels-like"></div>
+                    </div>
+                  </div>
+                  <div class="forecast-icon">                    
+                  </div>
+                </div>
+                <div class="forecast last">
+                  <div class="forecast-info">
+                    <div class="forecast-time"></div>
+                    <div class="forecast-weather">
+                      <div class="forecast-temp"></div>
+                      <div class="forecast-feels-like"></div>
+                    </div>
+                  </div>
+                  <div class="forecast-icon">                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="favourite-area">
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="main.js"></script>
+</html>
