@@ -1,4 +1,4 @@
-
+const TOKEN = "";
 
 const searchButton = document.querySelector(".search");
 const time = document.querySelectorAll(".forecast-time");
